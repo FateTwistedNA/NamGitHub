@@ -24,10 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Nam Cao"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Senior at the University of Houston, currently pursuing a Bachelor of Science in Computer Science with a minor in Mathematics. 
-                      Passionate about uncovering insights from data, I aspire to build a career in Data Science and Machine Learning/AI. 
-                      My academic background equips me with strong analytical and problem-solving skills, while my curiosity drives me to explore cutting-edge technologies in AI and data-driven solutions. 
-                      I thrive in collaborative environments and enjoy leveraging data to create innovative, impactful solutions."
+  bio              : "I am a Senior at the University of Houston, pursuing a Bachelor of Science in Computer Science with a minor in Mathematics. 
+                      I am passionate about Data Science and Machine Learning/AI, combining analytical skills with curiosity to explore innovative, data-driven solutions. 
+                      I thrive in collaborative environments and aim to use technology to make a meaningful impact."
   location         : "Houston, TX"
   employer         : "University of Houston"
   uri              : # URL
@@ -35,11 +34,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
