@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Nam Cao"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Senior at the University of Houston, pursuing a Bachelor of Science in Computer Science with a minor in Mathematics. 
-                      I am passionate about Data Science and Machine Learning/AI, combining analytical skills with curiosity to explore innovative, data-driven solutions. 
+  bio              : "Senior at the University of Houston, pursuing a Bachelor of Science in Computer Science with a minor in Mathematics. 
+                      Passionate about Data Science and Machine Learning/AI, combining analytical skills with curiosity to explore innovative, data-driven solutions. 
                       I thrive in collaborative environments and aim to use technology to make a meaningful impact."
   location         : "Houston, TX"
   employer         : "University of Houston"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : namcao14113
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
