@@ -70,5 +70,4 @@ Awards
 Download My Resume
 ======
 * [My Resume View (PDF)](https://docs.google.com/document/d/1k25X6d3-DwgvbFzJer5hXLO0phppsQ1Q/edit)
-* [My Resume Download (PDF)](.\files\resume.pdf?download=1)
-* [My Resume Download (PDF)](files\resume.pdf?download=1)
+* [My Resume Download (PDF)](files/resume.pdf?download=1)
