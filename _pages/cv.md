@@ -69,5 +69,6 @@ Awards
 
 Download My Resume
 ======
-* [My Resume View (PDF)](C:\Users\namnc\OneDrive\Documents\Study stuff\UH 2023-idk\COSC 4353\NamGitHub\files\resume.pdf)
-* [My Resume Download (PDF)](C:\Users\namnc\OneDrive\Documents\Study stuff\UH 2023-idk\COSC 4353\NamGitHub\files\resume.pdf?download=1)
+* [My Resume View (PDF)](https://docs.google.com/document/d/1k25X6d3-DwgvbFzJer5hXLO0phppsQ1Q/edit)
+* [My Resume Download (PDF)](.\files\resume.pdf?download=1)
+* [My Resume Download (PDF)](files\resume.pdf?download=1)
