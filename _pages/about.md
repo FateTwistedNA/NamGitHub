@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a student of [University of Houston](https://www.cs.uh.edu).
+This is the front page of a student of [University of Houston](https://www.uh.edu/nsm/computer-science/).
 
 A data-driven personal website
 ======

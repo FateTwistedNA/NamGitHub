@@ -11,31 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science - Math Minor, University of Houston, 2025 (expected)
-* Associates of Science, Lone Star College System, 2023
-* G.E.D, Cypress Creek High School, 2021
+* **University of Houston** – Houston, TX  
+  *Bachelor of Science in Computer Science, Math Minor*  
+  GPA: 3.9/4.0 (Expected Fall 2025)  
 
+* **Lone Star College System** – Houston, TX  
+  *Associate of Science*  
+  (Fall 2021 – Spring 2023)  
+
+* **Cypress Creek High School** – Houston, TX  
+  *G.E.D*  
+
+Coursework
+======
+* Data Structures & Algorithms  
+* Statistics for the Sciences  
+* Probability  
+* Discrete Math  
+* Database Systems  
+* Parallel Computations of GPU 
 
 Work experience
 ======
-* Fall 2023: Student
-  * University of Houston
-  * Duties includes: Updates and improvements to template
+* **Ship It!**  
+  *September 2024 – October 2024*  
+  *Technologies:* JavaScript, TypeScript, SQL, AWS, ReactJS, HTML, CSS, Git  
+  - Developed a responsive and dynamic multipage shipping service using JavaScript and a custom backend API.  
+  - Implemented user authentication, roles, and session management to handle concurrent users.  
+  - Designed and optimized SQL queries to ensure data integrity and efficiency.  
+  - Led a team of 5, coordinating tasks and deadlines to ensure project success.
 
-* 9/2019 - Present: Barista
-  * Starbucks
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Barista (Starbucks)**  
+  *December 2019 – Present*  
+  - Prepared and served an average of 150+ beverages daily, adhering to quality and safety standards.  
+  - Streamlined operations, reducing preparation time by 30%.  
+  - Achieved a high customer satisfaction rating through excellent service. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:**  
+  C++, Python, SQL, JavaScript, HTML, CSS, R  
 
-Service and leadership
+* **Technologies:**  
+  React, .NET, AWS, OpenAI, Git, Visual Studio Code, npm, yarn, Bash, Windows, PowerShell  
+
+* **Languages:**  
+  Vietnamese (Native), English (Fluent), Spanish (Beginner)  
+
+* **Interests:**  
+  Reading, working out, pool, soccer, badminton, running  
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Feldman Family Endowment (Spring 2023)  
+* Gala Scholarship (Spring 2023)  
+* Dean’s List (3 consecutive semesters)  
+
+My Resume
+======
+* [My Resume (PDF)](files/Resume_Nam_Cao.pdf)
