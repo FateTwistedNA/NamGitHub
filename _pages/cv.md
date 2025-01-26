@@ -67,6 +67,6 @@ Awards
 * Gala Scholarship (Spring 2023)  
 * Dean’s List (3 consecutive semesters)  
 
-My Resume
+Download My Resume
 ======
-* [My Resume (PDF)](files/Resume_Nam_Cao.pdf)
+* [My Resume (PDF)](files\Resume Nam Cao.pdf)
