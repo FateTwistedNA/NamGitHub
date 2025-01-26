@@ -69,4 +69,5 @@ Awards
 
 Download My Resume
 ======
-* [My Resume (PDF)](files/Resume_Nam_Cao.pdf?download=1)
+* [My Resume View (PDF)](files/resume.pdf?download=1)
+* [My Resume Download (PDF)](files/resume.pdf)
